@@ -74,6 +74,7 @@ Write a program to check if a string entered by the user is a palindrome.
 **Hint:** A palindrome reads the same backward as forward.
 
 [Solution Folder: `exercise_08`](./exercise_08)
+- This folder also has an improved solution. Do check it out.
 
 ## Exercise 9: Find the Largest Number
 **Filename:** `find_largest.py`
@@ -83,6 +84,7 @@ Write a program to find the largest number in a list of numbers entered by the u
 **Hint:** Use a `for` loop to compare each number.
 
 [Solution Folder: `exercise_09`](./exercise_09)
+- This folder also has a few more improved versions of the solution. Do check it out. It will expand your programming skills. 
 
 ## Exercise 10: Prime Number Check
 **Filename:** `prime_check.py`
@@ -101,6 +103,7 @@ Write a program to generate a list of all prime numbers up to 100.
 **Hint:** Use nested loops to check each number.
 
 [Solution Folder: `exercise_11`](./exercise_11)
+- This folder additional information in the README.md file. Do check it out.
 
 ## Exercise 12: Convert Celsius to Fahrenheit
 **Filename:** `celsius_to_fahrenheit.py`
