@@ -1,6 +1,6 @@
 # Python Programming Exercises
 
-Below are 20 Python programming exercises to help you practice and enhance your skills. Each exercise includes a hint to guide you. Try to solve them on your own before looking at the solutions. File names for saving your work are specified in each exercise.
+Below are 20 Python programming exercises to help you practice and enhance your skills. Each exercise includes a hint to guide you. Try to solve them on your own before looking at the solutions. File names for saving your work are specified in each exercise. These are from the [companion website](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/introduction-python/programming-exercises).
 
 ## Exercise 1: Print Odd Numbers
 **Filename:** `print_odd_numbers.py`
