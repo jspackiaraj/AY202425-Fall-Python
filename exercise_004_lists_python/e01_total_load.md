@@ -2,7 +2,7 @@
 
 #### `e01_total_load.md`
 
-```md
+
 # Exercise 1: Calculate the Total Load
 
 ## Problem Overview
@@ -39,7 +39,7 @@ For more exercises on lists, functions, and Python basics, review the following 
 ## Back to the Original Problem
 You can find this problem and related exercises at the following link:  
 [Original Problem: Programming Exercises - Lists in Python](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/introduction-python/understanding-data-structures-python/lists/programming-exercises-004-lists-python)
-```
+
 
 #### `e01_total_load.py`
 
