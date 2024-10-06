@@ -1,8 +1,3 @@
-### **Exercise 1: Calculate the Total Load**
-
-#### `e01_total_load.md`
-
-
 # Exercise 1: Calculate the Total Load
 
 ## Problem Overview
