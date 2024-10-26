@@ -1,10 +1,16 @@
-# Read and Write Beam Deflection Data
+# Read and Write Beam Deflection Data (CSV)
 
-## Question:
-Write a program that reads and writes beam deflection data to/from a CSV file.
+## Problem Description
+Writes and reads beam deflection data in CSV format.
 
-## Tip:
-Make sure you handle file opening and closing properly.
+This program demonstrates file handling techniques in Python, specifically designed to perform operations like reading, writing, and appending data in files.
 
-## Solution File:
-[Solution](https://github.com/jspackiaraj/e15_beam_deflection_csv.py)
+## Solution Link
+The Python solution for this problem is available in [e15_beam_deflection_csv.py](./e15_beam_deflection_csv.py).
+
+## Additional Resources
+For a detailed explanation of file handling concepts, please visit the [Files and File Handling in Python](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python) page.
+
+For related exercises and questions, refer to the [Programming Exercises 007](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python/programming-exercises-007) page.
+
+Happy coding!

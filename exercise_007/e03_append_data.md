@@ -1,10 +1,16 @@
 # Append Data to a File
 
-## Question:
-Write a program that appends new data to an existing text file without overwriting the existing content.
+## Problem Description
+Appends new data to an existing file.
 
-## Tip:
-Make sure you handle file opening and closing properly.
+This program demonstrates file handling techniques in Python, specifically designed to perform operations like reading, writing, and appending data in files.
 
-## Solution File:
-[Solution](https://github.com/jspackiaraj/e03_append_data.py)
+## Solution Link
+The Python solution for this problem is available in [e03_append_data.py](./e03_append_data.py).
+
+## Additional Resources
+For a detailed explanation of file handling concepts, please visit the [Files and File Handling in Python](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python) page.
+
+For related exercises and questions, refer to the [Programming Exercises 007](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python/programming-exercises-007) page.
+
+Happy coding!

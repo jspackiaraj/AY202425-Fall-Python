@@ -1,10 +1,16 @@
 # Read Class Marks from a File
 
-## Question:
-Write a program that reads student marks from a file and stores them in a dictionary.
+## Problem Description
+Reads student marks from a file and stores them in a dictionary.
 
-## Tip:
-Make sure you handle file opening and closing properly.
+This program demonstrates file handling techniques in Python, specifically designed to perform operations like reading, writing, and appending data in files.
 
-## Solution File:
-[Solution](https://github.com/jspackiaraj/e04_read_marks_dict.py)
+## Solution Link
+The Python solution for this problem is available in [e04_read_marks_dict.py](./e04_read_marks_dict.py).
+
+## Additional Resources
+For a detailed explanation of file handling concepts, please visit the [Files and File Handling in Python](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python) page.
+
+For related exercises and questions, refer to the [Programming Exercises 007](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python/programming-exercises-007) page.
+
+Happy coding!
