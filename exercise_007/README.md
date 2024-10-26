@@ -2,6 +2,20 @@
 
 This repository contains 15 Python programs that demonstrate different aspects of file handling, list operations, and data processing. Each program is accompanied by an `.md` file with a detailed explanation of the problem, tips, and a link to the solution.
 
+
+## Further Reading:
+
+For a detailed explanation of the file handling concepts underlying these exercises, please refer to the [Programming Exercises 007](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python/programming-exercises-007) page. This contains the original questions on file handling and list operations in Python.
+
+For additional insights into file handling in Python, refer to the [Files and File Handling in Python](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python) page.
+
+## Note:
+
+The files are platform-specific and can be created by running the provided Python script. The Python programs and their corresponding `.md` files are linked for easy navigation. Some example files are available in this repository for testing purposes.
+
+You can view the complete solutions on [GitHub](https://github.com/jspackiaraj/AY202425-Fall-Python/tree/master/exercise_007).
+
+
 ## Programs List
 
 Below is a list of the programs available in this repository. Each program solves a different problem related to file handling and matrix or list operations.
@@ -80,20 +94,6 @@ Below is a list of the programs available in this repository. Each program solve
 - **Program:** [e15_replace_outliers.py](e15_replace_outliers.py)
 - **Description:** Replaces outliers in soil test data with the average value of the list.
 - **Details:** [e15_replace_outliers.md](e15_replace_outliers.md)
-
----
-
-## Further Reading:
-
-For a detailed explanation of the file handling concepts underlying these exercises, please refer to the [Programming Exercises 007](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python/programming-exercises-007) page. This contains the original questions on file handling and list operations in Python.
-
-For additional insights into file handling in Python, refer to the [Files and File Handling in Python](https://jsp.shiksha/index.php/portfolio/bcse101e-computer-programming-python/files-and-file-handling-python) page.
-
-## Note:
-
-The files are platform-specific and can be created by running the provided Python script. The Python programs and their corresponding `.md` files are linked for easy navigation. Some example files are available in this repository for testing purposes.
-
-You can view the complete solutions on [GitHub](https://github.com/jspackiaraj).
 
 ---
 
